@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c870ecf-91e2-4f50-8c59-a018946a7cb1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8c870ecf-91e2-4f50-8c59-a018946a7cb1" name="Changes" comment="Section 18.277(JavaFX; Building a UI with SceneBuilder) &#10;&#10;demonstrating how scenebuilder writes .fxml for us">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/scenebuilder_section18javafx/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/todolist_section18javafx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/todolist_section18javafx/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/todolist_section18javafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/todolist_section18javafx/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/todolist_section18javafx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/scenebuilder_section18javafx/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/todolist_section18javafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/scenebuilder_section18javafx/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/todolist_section18javafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/scenebuilder_section18javafx/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +40,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.todolist_section18javafx.HelloApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.example.scenebuilder_section18javafx.HelloApplication" />
       <module name="SceneBuilder_Section18JavaFX" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.todolist_section18javafx.*" />
+          <option name="PATTERN" value="com.example.scenebuilder_section18javafx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,7 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.com.example.scenebuilder_section18javafx.HelloApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -77,6 +80,29 @@
       <option name="presentableId" value="Default" />
       <updated>1682718075774</updated>
     </task>
+    <task id="LOCAL-00001" summary="Section 18.277(JavaFX; Building a UI with SceneBuilder) &#10;&#10;demonstrating how scenebuilder writes .fxml for us">
+      <created>1683087503037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683087503037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section 18.277(JavaFX; Building a UI with SceneBuilder) &#10;&#10;demonstrating how scenebuilder writes .fxml for us" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 18.277(JavaFX; Building a UI with SceneBuilder) &#10;&#10;demonstrating how scenebuilder writes .fxml for us" />
   </component>
 </project>
